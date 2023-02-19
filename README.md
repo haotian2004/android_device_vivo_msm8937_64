@@ -7,6 +7,3 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 #
-```
-# android_device_vivo_msm8937_64pufferx5
-# android_device_vivo_msm8937_64pufferx5

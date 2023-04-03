@@ -6,7 +6,5 @@
 /boot            emmc     /dev/block/bootdevice/by-name/boot         flags=display=boot
 /recovery        emmc     /dev/block/bootdevice/by-name/recovery     flags=display=recovery
 /misc            emmc     /dev/block/bootdevice/by-name/misc         flags=display=misc
-/apps            ext4     /dev/block/bootdevice/by-name/apps         flags=display=apps
 /external_sd     vfat     /dev/block/mmcblk1p1                       flags=display=external_sd
-/otg             vfat     /dev/block/sda1                            flags=display=otg
 /persist         ext4     /dev/block/bootdevice/by-name/persist      flags=display=persist
